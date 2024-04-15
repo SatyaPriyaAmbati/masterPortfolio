@@ -11,7 +11,7 @@ const seo = {
   description:
     "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Satya Priya",
     type: "website",
   },
 };
