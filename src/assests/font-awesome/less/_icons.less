@@ -1,9 +1,10 @@
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 
-.@{fa-css-prefix}-500px:before {
-  content: @fa-var-500px;
-}
+
+   .fab-500px::before {
+    content: "\f26e";
+  } 
 .@{fa-css-prefix}-accessible-icon:before {
   content: @fa-var-accessible-icon;
 }

@@ -9,11 +9,10 @@ const settings = {
 const seo = {
   title: "Ashutosh's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
   og: {
     title: "Ashutosh Hathidara Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
   },
 };
 
