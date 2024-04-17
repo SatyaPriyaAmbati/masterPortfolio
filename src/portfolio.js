@@ -10,7 +10,6 @@ const seo = {
   title: "Satya's Portfolio",
   description:
     "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
-
   og: {
     title:
       "Currently seeking full-stack opportunities, I possess work authorization in the United States and am available to commence immediately.",
