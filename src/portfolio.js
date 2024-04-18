@@ -7,14 +7,9 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Satya's Portfolio",
+  title: "My Portfolio",
   description:
     "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
-  og: {
-    title:
-      "Currently seeking full-stack opportunities, I possess work authorization in the United States and am available to commence immediately.",
-    type: "website",
-  },
 };
 
 //Home Page
@@ -24,8 +19,9 @@ const greeting = {
   subTitle:
     "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/SatyaPriyaAmbati/masterPortfolio",
+    "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
+  portfolio_repository:
+    "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
   githubProfile: "https://github.com/SatyaPriyaAmbati",
 };
 
@@ -320,6 +316,7 @@ const experience = {
   description:
     "As a software engineer with two years of experience, I transitioned into full-stack development, where I played a pivotal role as a team member in the development of various web applications. This experience afforded me ample opportunities for learning and growth, as I independently developed and contributed to different projects.",
   header_image_path: "experience.svg",
+
   sections: [
     {
       title: "Work",
@@ -384,16 +381,10 @@ const contactPageData = {
     description:
       "I maintain an active presence on numerous professional social media platforms.",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
-  },
+  blogSection: {},
   addressSection: {
     title: "Address",
-    subtitle: "Marietta, GA,USA,30067",
+    subtitle: "Marietta,Georgia contact me -  sambati1864@gmail.com",
     locality: "Marietta",
     country: "USA",
     region: "Georgia",

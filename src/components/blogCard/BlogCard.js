@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import "./BlogCard.css";
 
 export default function BlogCard({ blog }) {
@@ -19,4 +19,4 @@ export default function BlogCard({ blog }) {
       </div>
     </div>
   );
-}
+}*/

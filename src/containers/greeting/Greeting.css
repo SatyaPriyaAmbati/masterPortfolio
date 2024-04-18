@@ -92,4 +92,8 @@
     display: flex;
     justify-content: center;
   }
+  .colour {
+    color: azure;
+    font-size: 12px;
+  }
 }

@@ -1,0 +1,13 @@
+.paragraph {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  width: 1211px;
+  height: 40px;
+  border: 2px solid black;
+  padding: 5.5px;
+  box-sizing: border-box;
+  background-color: rgb(19, 181, 246);
+  border-radius: 15px;
+  text-align: center;
+}

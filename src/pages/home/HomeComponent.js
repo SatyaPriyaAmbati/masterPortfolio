@@ -4,11 +4,17 @@ import Greeting from "../../containers/greeting/Greeting";
 import Skills from "../../containers/skills/Skills";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
+import "./HomeComponent.css";
 
 class Home extends Component {
   render() {
     return (
       <div>
+        <p className="paragraph">
+          Seeking full-time opportunities as a software development engineer,
+          authorized to work in the United States, and available to start
+          immediately
+        </p>
         <Header theme={this.props.theme} />
         <Greeting theme={this.props.theme} />
         <Skills theme={this.props.theme} />
