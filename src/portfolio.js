@@ -7,9 +7,14 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "My Portfolio",
+  title: "MyPortfolio",
   description:
     "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
+  og: {
+    title: "Satya Priya's Portfolio",
+    type: "website",
+    url: "https://github.com/SatyaPriyaAmbati/masterPortfolio.git",
+  },
 };
 
 //Home Page
