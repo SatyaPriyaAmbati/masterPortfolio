@@ -105,38 +105,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
-Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
-
-- If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
-- If you don't want Splash screen or you don't know how to design logo, then this option is for you
-
-  - You can open `src/portfolio.js` file and at the top of this file you will see `settings` component as below:
-    ```javascript
-    // Website related settings
-    const settings = {
-      isSplash: true,
-    };
-    ```
-  - Change `isSplash` from `true` to `false`
-  - Now, if you see your website using `npm start`, it will directly open `home` rather than animating logo `splash` screen
-  - If you design your logo in future, then edit the files in `./src/components/Loader` and then revert `isSplash` to `true` in `src/portfolio.js`.
-
 ## Other
-
-- You need to change the website title and other descriptions in `public/index.html`
-- You can define your own favicon in `public/icons` directory. If you don't have a favicon, you can generate favicons from [Favicon Generator](https://www.favicon-generator.org/) and [Favicon IO](https://favicon.io/)
-- You can also edit your website preview (known as description image). Run your site locally, take a screenshot and replace with `public/icons/desc.png`. Note that your screenshot should be 1280x640 for better preview.
-
-# Choose Theme 🌈
-
-- You can take a look at `src/theme.js` file where all available themes are mentioned with their respective color codes
-- At the bottom of this file you will see the below code:
-  - `export const chosenTheme = blueTheme;`
-  - You need to change the name from `blueTheme` to whatever theme you want to set your website to
-  - You can define new theme similarly as other themes and you can assign name of that new defined theme to `chosenTheme`
-- That's it. You just need to change the theme name and the code will take care of everything else
-- Run `npm start` to check if everything is ok.
 
 # Deployment 📦
 
