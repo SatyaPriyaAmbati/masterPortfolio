@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "MyPortfolio",
   description:
-    "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
+    "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions. ",
   og: {
     title: "Satya Priya's Portfolio",
     type: "website",
@@ -22,7 +22,7 @@ const greeting = {
   title: "Satya Priya ",
   logo_name: "Satya Priya",
   subTitle:
-    "Passionate about building full-stack applications to create impactful, sustainable, and scalable solutions.",
+    "Software Developer with 2 years of hands-on experience specializing in web application development using Java, Spring Boot, JavaScript, and ReactJS. Proven track record of effective collaboration within cross-functional teams to meet project objectives. Committed to delivering solutions that align with business requirements and drive organizational success.",
   resumeLink:
     "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
   portfolio_repository:

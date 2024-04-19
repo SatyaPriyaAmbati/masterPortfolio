@@ -10,11 +10,6 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <p className="paragraph">
-          Seeking full-time opportunities as a software development engineer,
-          authorized to work in the United States, and available to start
-          immediately
-        </p>
         <Header theme={this.props.theme} />
         <Greeting theme={this.props.theme} />
         <Skills theme={this.props.theme} />

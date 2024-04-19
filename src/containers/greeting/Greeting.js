@@ -26,13 +26,9 @@ export default function Greeting(props) {
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                {greeting.subTitle} <br />
-                <br />
-                <b>I am open to work as</b>
-                <br />
-                Software Engineer,Fullstack Developer,Frontend Developer,Backend
-                Developer,Salesforce Developer
+                {greeting.subTitle}{" "}
               </p>
+
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
