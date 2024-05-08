@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "Palindrome",
-      "createdAt": "2024-02-06T04:18:19Z",
-      "url": "https://github.com/SatyaPriyaAmbati/Palindromecheck/tree/master",
-      "description": "🔥Simply verify if the given number is a palindrome or not.",
+      "name": "FullStack-Restful-API",
+      "createdAt": "2024-05-01T04:18:19Z",
+      "url": "https://github.com/SatyaPriyaAmbati/Fullstack-Restfull-Api/tree/master",
+      "description": "👩🏻‍💻🔥 Transmitting data from the server to the client involves providing it in JSON or HTML format through request and response actions, utilizing full-stack capabilities.",
       "isFork": false,
       "languages": [
         {
@@ -13,29 +13,29 @@
           "iconifyClass": "logos-html-5"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "nodejs",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "mangodb",
-          "iconifyClass": "logos-mangodb"
+          "name": "mongodb",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "react.js",
+          "iconifyClass": "logos-react.js"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "API",
-      "createdAt": "2024-03-13T20:41:33Z",
-      "url": "https://github.com/SatyaPriyaAmbati/API/tree/Fetchdata",
-      "description": "🔥The project demonstrated how to retrieve data from an external API, utilize asynchronous JavaScript, and dynamically update the DOM to display the fetched data..",
+      "name": "Calculator",
+      "createdAt": "2024-03-31T20:41:33Z",
+      "url": "https://github.com/SatyaPriyaAmbati/calculator/tree/master",
+      "description": "👩🏻‍💻🔥 A simple calculator built with React.js that allows users to perform arithmetic operations.",
       "isFork": false,
       "languages": [
         {
@@ -43,59 +43,21 @@
           "iconifyClass": "logos-html-5"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "bootstrap",
+          "iconifyClass": "logos-bootstrap"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "React",
+          "name": "react",
           "iconifyClass": "logos-react"
-        },
-        {
-          "name": "mangodb",
-          "iconifyClass": "logos-mangodb"
-        },
-        {
-          "name": "Nodejs",
-          "iconifyClass": "logos-Nodejs"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "calculator",
-      "createdAt": "2024-04-06T16:26:54Z",
-      "url": "https://github.com/SatyaPriyaAmbati/calculator/tree/master",
-      "description": "🔥 A simple calculator built with React.js that allows users to perform arithmetic operations. ",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "Bootstrap",
-          "iconifyClass": "logos-Bootstrap"
-        },
-        {
-          "name": "Jquery",
-          "iconifyClass": "logos-jquery"
-        },
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "Decimal to Binary",
-      "createdAt": "2024-04-11T14:50:20Z",
-      "url": "https://github.com/SatyaPriyaAmbati/DecimaltoBinary/tree/decitobin",
-      "description": "🔥Developed an app to convert numbers from decimal to binary.",
+      "name": "TODO",
+      "createdAt": "2024-02-06T16:26:54Z",
+      "url": "https://github.com/SatyaPriyaAmbati/TO-DO-APP/tree/master",
+      "description": "👩🏻‍💻🔥 This TODO application teaches you how to manage local storage, handle form inputs, perform CRUD operations, implement event listeners, and toggle UI elements in a web browser.",
       "isFork": false,
       "languages": [
         {

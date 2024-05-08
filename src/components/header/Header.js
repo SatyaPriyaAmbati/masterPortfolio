@@ -85,6 +85,18 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
+                <a
+                  href="https://dev.to/satyapriyaambati" // Replace this with your actual blog link
+                  target="_blank" // Open the link in a new tab
+                  rel="noopener noreferrer" // Security best practices for opening external links
+                  style={{ color: theme.text }}
+                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
+                  onMouseOut={(event) => onMouseOut(event)}
+                >
+                  Blog
+                </a>
+              </li>
+              <li>
                 <NavLink
                   to="/contact"
                   tag={Link}

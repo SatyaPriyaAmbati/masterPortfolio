@@ -377,6 +377,13 @@ const publicationsHeader = {
 const publications = {
   data: [],
 };
+//blogs
+const blog = {
+  title: "Blog",
+  subtitle: "Satya's blog",
+  description: "My thoughts",
+  link: "https://dev.to/satyapriyaambati",
+};
 
 // Contact Page
 const contactPageData = {
@@ -418,5 +425,6 @@ export {
   projectsHeader,
   publicationsHeader,
   publications,
+  blog,
   contactPageData,
 };
