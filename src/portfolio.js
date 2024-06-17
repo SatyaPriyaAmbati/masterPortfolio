@@ -285,15 +285,6 @@ const certifications = {
       color_code: "#ADD8E6",
     },
     {
-      title: "Automation",
-      subtitle: "- GUVI",
-      logo_path: "GUVI_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1Sg_SanmnK_fAnHCAaW69Dl5NiCLTPD0_/view",
-      alt_name: "GUVI",
-      color_code: "#98FB98",
-    },
-    {
       title: "Machine Learning Foundations",
       subtitle: "- Coursera",
       logo_path: "coursera_logo.png",
@@ -319,6 +310,15 @@ const certifications = {
         "https://drive.google.com/file/d/13aWG_RnhTdpqgnMghRQPbEdqwFZYG3T4/view",
       alt_name: "Coursera",
       color_code: "#2A73CC",
+    },
+    {
+      title: "Automation",
+      subtitle: "- GUVI",
+      logo_path: "GUVI_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1Sg_SanmnK_fAnHCAaW69Dl5NiCLTPD0_/view",
+      alt_name: "GUVI",
+      color_code: "#98FB98",
     },
   ],
 };
