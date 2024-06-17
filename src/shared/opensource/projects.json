@@ -9,8 +9,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "react.js",
-          "iconifyClass": "logos-react.js"
+          "name": "reactjs",
+          "iconifyClass": "logos-reactjs"
         },
         {
           "name": "nodejs",
@@ -21,7 +21,7 @@
           "iconifyClass": "logos-mongodb"
         },
         {
-          "name": "Expressjs",
+          "name": "expressjs",
           "iconifyClass": "logos-expressjs"
         }
       ]

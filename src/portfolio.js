@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Software Developer with 2 years of hands-on experience specializing in web application development using Java, Spring Boot, JavaScript, and ReactJS. Proven track record of effective collaboration within cross-functional teams to meet project objectives. Committed to delivering solutions that align with business requirements and drive organizational success.",
   resumeLink:
-    "https://drive.google.com/file/d/11xxHMPdF2lY8aazBq1pBGfRTACQMjx_B/view",
+    "https://drive.google.com/file/d/1fv4DrZ7KahEDTQifIsswzPQA_eaqGsFO/view",
   portfolio_repository:
     "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
   githubProfile: "https://github.com/SatyaPriyaAmbati",
@@ -235,14 +235,6 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "HTML",
-      subtitle: "- SoloLearn",
-      logo_path: "Sololearn.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1hETUL4oorNm723EvGfC6owEgSVKdYDO_/view",
-      color_code: "#1F70C199",
-    },
-    {
       title: "JavaScript",
       subtitle: "- freeCodeCamp",
       logo_path: "freeCodeCamp.png",
@@ -267,6 +259,14 @@ const certifications = {
         "https://www.freecodecamp.org/certification/satyapriya/back-end-development-and-apis",
       alt_name: "freeCodeCamp",
       color_code: "#A9A9A9",
+    },
+    {
+      title: "HTML",
+      subtitle: "- SoloLearn",
+      logo_path: "Sololearn.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1hETUL4oorNm723EvGfC6owEgSVKdYDO_/view",
+      color_code: "#1F70C199",
     },
     {
       title: "SQL",
