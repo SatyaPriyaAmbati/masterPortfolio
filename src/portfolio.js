@@ -26,7 +26,7 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1fv4DrZ7KahEDTQifIsswzPQA_eaqGsFO/view",
   portfolio_repository:
-    "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
+    "https://drive.google.com/file/d/1fv4DrZ7KahEDTQifIsswzPQA_eaqGsFO/view",
   githubProfile: "https://github.com/SatyaPriyaAmbati",
 };
 
