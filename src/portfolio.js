@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Software Developer with 2 years of hands-on experience specializing in web application development using Java, Spring Boot, JavaScript, and ReactJS. Proven track record of effective collaboration within cross-functional teams to meet project objectives. Committed to delivering solutions that align with business requirements and drive organizational success.",
   resumeLink:
-    "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
+    "https://drive.google.com/file/d/11xxHMPdF2lY8aazBq1pBGfRTACQMjx_B/view",
   portfolio_repository:
     "https://drive.google.com/file/d/1IMdvt9GoJHa90IoAYGP19bm3Qr2cDz_6/view?usp=sharing",
   githubProfile: "https://github.com/SatyaPriyaAmbati",
@@ -256,6 +256,15 @@ const certifications = {
       logo_path: "freeCodeCamp.png",
       certificate_link:
         "https://www.freecodecamp.org/certification/satyapriya/front-end-development-libraries",
+      alt_name: "freeCodeCamp",
+      color_code: "#A9A9A9",
+    },
+    {
+      title: "Backend API ",
+      subtitle: "- freeCodeCamp",
+      logo_path: "freeCodeCamp.png",
+      certificate_link:
+        "https://www.freecodecamp.org/certification/satyapriya/back-end-development-and-apis",
       alt_name: "freeCodeCamp",
       color_code: "#A9A9A9",
     },

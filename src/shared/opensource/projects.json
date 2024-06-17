@@ -2,6 +2,32 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
+      "name": "FullStack_MERN",
+      "createdAt": "2024-06-01T04:18:19Z",
+      "url": "https://github.com/SatyaPriyaAmbati/FullStack_MERN/tree/master",
+      "description": "👩🏻‍💻🔥 The Bookstore is a full-stack web application built with MongoDB, Express.js, React.js, and Node.js. It allows users to browse and manage book details with user authentication and a seamless interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "react.js",
+          "iconifyClass": "logos-react.js"
+        },
+        {
+          "name": "nodejs",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "mongodb",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "Expressjs",
+          "iconifyClass": "logos-expressjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g",
       "name": "FullStack-Restful-API",
       "createdAt": "2024-05-01T04:18:19Z",
       "url": "https://github.com/SatyaPriyaAmbati/Fullstack-Restfull-Api/tree/master",
